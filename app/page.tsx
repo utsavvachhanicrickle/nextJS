@@ -5,6 +5,7 @@ export default function Home() {
     <div className="h-full">
     <div className="bg-blue-500 flex justify-center items-center text-center min-h-screen">
       Welcomes to basic Working with git <p>Fork</p>
+      <p>Demo</p>
     </div>
     </div>
   );
